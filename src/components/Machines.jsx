@@ -1,10 +1,10 @@
-import { Candy, Coffee, Utensils, Popcorn } from "lucide-react";
+import { Candy, Coffee, Popcorn } from "lucide-react";
 
 const machines = [
   {
     name: "QB Mini",
     tag: "Compact",
-    desc: "Perfect for lobbies and studios. 24". Small footprint, big impact.",
+    desc: "Perfect for lobbies and studios. 24-inch screen. Small footprint, big impact.",
     colors: "from-rose-500 via-orange-400 to-yellow-300",
     icon: Candy,
   },
@@ -18,7 +18,7 @@ const machines = [
   {
     name: "QB XL",
     tag: "High Traffic",
-    desc: "Large capacity with dynamic shelves and 55" screen.",
+    desc: "Large capacity with dynamic shelves and 55-inch screen.",
     colors: "from-fuchsia-500 via-violet-500 to-indigo-400",
     icon: Popcorn,
   },
